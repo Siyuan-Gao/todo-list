@@ -50,7 +50,7 @@ render(){
   return(
     <div classNane="App">   
     <div>
-      <h1> SHIT TO DO... </h1>
+      <h1> THINGS TO DO... </h1>
       <br/>
       <input 
       type="text" 
