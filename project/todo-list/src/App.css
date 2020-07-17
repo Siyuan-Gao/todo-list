@@ -1,0 +1,31 @@
+body {
+  /* text-align: center; */
+  background-image: url("todo.jpg");
+  margin-left: 15%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 62px;
+}
+
+
+/* button{
+
+} */
+
+input {
+  margin: 10px;
+  height: 20px;
+}
+
+.deleteButton {
+  color: red;
+  margin-left: 10px;
+}
+
+ul {
+  font-size: 25px;
+}
